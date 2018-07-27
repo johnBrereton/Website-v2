@@ -1,0 +1,29 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to My Website\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-my-website",
+            "text": "",
+            "title": "Welcome to My Website"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/FTC/",
+            "text": "FIRST FTC Team 12601",
+            "title": "FTC"
+        },
+        {
+            "location": "/FTC/#first-ftc-team-12601",
+            "text": "",
+            "title": "FIRST FTC Team 12601"
+        }
+    ]
+}

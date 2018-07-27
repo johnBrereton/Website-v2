@@ -1,0 +1,9 @@
+site_name: John Brereton
+
+pages:
+    - Home: index.md
+    - FTC Team 12601: FTC.md
+    - Projects:
+        - stuff.md
+theme:
+    name: 'material'
