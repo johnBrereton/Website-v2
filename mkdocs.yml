@@ -7,5 +7,6 @@ theme: material
 pages:
     - Home: index.md
     - FTC Team 12601: FTC.md
+    - 3D Printing: 3d-Printing.md
     - Projects:
         - This Website: Projects/Website.md
