@@ -1,7 +1,9 @@
 site_name: John's Website
-theme: material
-site_desciption: A project documentation website
 site_author: John Brereton
+site_desciption: A project documentation website
+site_favicon: img/favicon.ico
+repo_url: https://github.com/jbrereton6
+theme: material
 pages:
     - Home: index.md
     - FTC Team 12601: FTC.md
