@@ -1,9 +1,9 @@
-site_name: John Brereton
-
+site_name: John's Website
+theme: material
+site_desciption: A project documentation website
+site_author: John Brereton
 pages:
     - Home: index.md
     - FTC Team 12601: FTC.md
     - Projects:
         - This Website: Projects/Website.md
-theme:
-    name: 'material'
