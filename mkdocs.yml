@@ -4,6 +4,6 @@ pages:
     - Home: index.md
     - FTC Team 12601: FTC.md
     - Projects:
-        - stuff.md
+        - This Website: Projects/Website.md
 theme:
     name: 'material'
