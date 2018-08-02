@@ -1,2 +1,2 @@
 # Website
-This Website is still a work in progress chech back soon for updates.
+This Website is still a work in progress check back soon for updates.
