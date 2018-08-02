@@ -9,4 +9,5 @@ pages:
     - FTC Team 12601: FTC.md
     - 3D Printing: 3d-Printing.md
     - Projects:
+        - Raspberry Pi VPN: Projects/Pi-VPN.md
         - This Website: Projects/Website.md
