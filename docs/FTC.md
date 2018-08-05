@@ -1,9 +1,13 @@
 #FTC Team 12601
 ---
 ##About FIRST Tech Challenge
+![FTC Logo](img\FTC-logo.jpg)
+
 The FIRST Tech Challenge is a robotics competition that allows students to compete head to head, and are challenged to design, build, program, and operate robots.
 
 ##About Our Team
+![Team Picture](img\Team-Picture.jpg)
+
 We are Robostorm FTC Team 12601 from Hunterdon County New Jersey.  We are a 4H club which means we are open to all kids in Hunterdon county grades 7-12.  Being a small team allows us to have more hands-on time with the robot.
 
 ##2019 Season - FIRST Rover Ruckus
