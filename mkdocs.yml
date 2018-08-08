@@ -16,7 +16,7 @@ extra:
     - type: 'github'
       link: 'https://github.com/jbrereton6'
     - type: 'envelope'
-      link: 'mailto:jbrereton6@outlook.com'
+      link: 'mailto:john@jbrereton.com'
 
 pages:
     - Home: index.md
