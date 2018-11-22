@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>/</loc>
-     <lastmod>2018-10-07</lastmod>
+     <loc>http://jbrereton.com/</loc>
+     <lastmod>2018-11-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/FTC/</loc>
-     <lastmod>2018-10-07</lastmod>
+     <loc>http://jbrereton.com/FTC/</loc>
+     <lastmod>2018-11-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/3d-Printing/</loc>
-     <lastmod>2018-10-07</lastmod>
+     <loc>http://jbrereton.com/3d-Printing/</loc>
+     <lastmod>2018-11-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/Projects/Pi-VPN/</loc>
-     <lastmod>2018-10-07</lastmod>
+     <loc>http://jbrereton.com/Projects/Pi-VPN/</loc>
+     <lastmod>2018-11-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/Projects/Website/</loc>
-     <lastmod>2018-10-07</lastmod>
+     <loc>http://jbrereton.com/Projects/Website/</loc>
+     <lastmod>2018-11-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

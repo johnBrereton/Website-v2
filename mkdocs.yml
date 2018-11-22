@@ -1,15 +1,38 @@
+# project Information
 site_name: John's Website
-site_author: John Brereton
 site_desciption: A project documentation website
-site_favicon: img/favicon.ico
+site_author: John Brereton
+site_url: 'http://jbrereton.com'
+
+# Repository
+repo_name:
 repo_url: https://github.com/jbrereton6/Website
+# Page Tree
+nav:
+    - Home: index.md
+    - FTC Team 12601: FTC.md
+    - 3D Printing: 3d-Printing.md
+    - Projects:
+        - Raspberry Pi VPN: Projects/Pi-VPN.md
+        - This Website: Projects/Website.md
+
+# Configuration
 theme:
   name: material
-  feature:
-    tabs: false
-  favicon: img/favicon.png
+  palette:
+    primary:
+    secondary:
+  font:
+    text:
+    code:
   logo:
     icon: 'computer'
+  favicon: 'img\favicon.png'
+  language: 'en'
+  feature:
+    tabs: false
+
+# Customization
 extra:
   disqus: 'johns-website'
   social:
@@ -18,10 +41,16 @@ extra:
     - type: 'envelope'
       link: 'mailto:john@jbrereton.com'
 
-pages:
-    - Home: index.md
-    - FTC Team 12601: FTC.md
-    - 3D Printing: 3d-Printing.md
-    - Projects:
-        - Raspberry Pi VPN: Projects/Pi-VPN.md
-        - This Website: Projects/Website.md
+# Google Analytics
+google_analytics:
+  - 'UA-129700516-1'
+  - 'auto'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  - meta
