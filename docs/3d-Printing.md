@@ -1,4 +1,4 @@
-#3D Printing
+# 3D Printing
 ---
 ![Prusa i3 MK3](img\prusa-i3-mk3.jpg)
 
