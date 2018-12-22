@@ -16,6 +16,9 @@ nav:
     - Projects:
         - Raspberry Pi VPN: Projects/Pi-VPN.md
         - This Website: Projects/Website.md
+    - Tools:
+        - International Space Station Live Feed: Tools/Iss.md
+        - Alternitive Fueling Solutions: Tools/Afs.md
 
 # Configuration
 theme:
