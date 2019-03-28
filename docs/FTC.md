@@ -11,7 +11,7 @@ The FIRST Tech Challenge is a robotics competition that allows students to compe
 We are Robostorm FTC Team 12601 from Hunterdon County New Jersey.  We are a 4H club which means we are open to all kids in Hunterdon county grades 7-12.  Being a small team allows us to have more hands-on time with the robot.
 
 ##2019 Season - FIRST Rover Ruckus
-My second year doing FTC, this year we only have 4 team members.
+My second year doing FTC, this year our team has shrunk to only five members due to members graduating.  We had lost both our lead mechanical and lead programmer and knew it would be a difficult season.  We decided to buy a CNC machine to machine our driveplates for our robot, however the machine we bought was not nearly powerfull enough to machine the aluminum the way we needed it.  We decided to outsorce our driveplates to a local machine shop and they were much better.
 
 ###Awards
 
