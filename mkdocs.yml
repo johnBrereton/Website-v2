@@ -1,12 +1,16 @@
 # project Information
-site_name: John's Website
-site_desciption: A project documentation website
-site_author: John Brereton
+site_name: 'John's Website'
+site_desciption: 'A project documentation website'
+site_author: 'John Brereton'
 site_url: 'http://jbrereton.com'
+site_dir: '/var/www/html'
 
 # Repository
 repo_name:
-repo_url: https://github.com/jbrereton6
+repo_url: https://github.com/johnBrereton
+
+# Copyright
+copyright: 'Copyright &copy; 2018 - 2020 John Brereton'
 
 # Page Tree
 nav:
@@ -16,9 +20,6 @@ nav:
     - Projects:
         - Raspberry Pi VPN: Projects/Pi-VPN.md
         - This Website: Projects/Website.md
-    - Tools:
-        - International Space Station Live Feed: Tools/Iss.md
-        - Alternitive Fueling Solutions: Tools/Afs.md
 
 # Configuration
 theme:
@@ -41,7 +42,7 @@ extra:
   disqus: 'johns-website'
   social:
     - type: 'github'
-      link: 'https://github.com/jbrereton6'
+      link: 'https://github.com/johnBrereton'
     - type: 'envelope'
       link: 'mailto:john@jbrereton.com'
 
