@@ -1,6 +1,6 @@
 # 3D Printing
 ---
-![Prusa i3 MK3](img\prusa-i3-mk3.jpg)
+![Prusa i3 MK3](docs\img\prusa-i3-mk3.jpg)
 
 Ever since I was introduced to 3d printing I was amazed by how I can turn plastic filament into whatever I could fit in the print bed.  After a lot of thought and research, I decided to get the Prusa i3 mk2.  After about a year of printing the mk2s came out which was faster, quieter and produced higher quality prints than the mk2 so I decided to get the upgrade kit.  Unfortunately since Prusa ships from the Czech Republic and has a significant lead time it took about two months for the upgrade to come.  Soon after I received the upgrade they released the mk3 which was a totally redesigned mk2 with a removable bed, 24v power supply, Rambo einsy, etc. after a few months of good reviews for the mk3 I decided to upgrade to the mk3 and it was a way better experience than the mk2.
 ##Octoprint
