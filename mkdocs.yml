@@ -20,6 +20,7 @@ nav:
   - Projects:
     - Raspberry Pi VPN: Projects/Pi-VPN.md
     - This Website: Projects/Website.md
+    - CNC: Projects/CNC.md
 
 # Configuration
 theme:

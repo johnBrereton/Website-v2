@@ -16,7 +16,6 @@ My second year doing FTC, this year our team has shrunk to only five members due
 ###Awards
 
 ##2018 Season - FIRST Relic Recovery
-![Team Picture](\img\Team-Picture.jpg)
 Our first year as a rookie FTC team, we were one of the smallest teams with only 8 members.  When we started we hoped we could make it past the first few competitions and somehow we ended up in worlds.  Unlike other teams, our robot was custom machined by one of our team members in his machine shop.  When we got to our first competition we realized that we were one of the only robots that could actually move and it stayed that way until we got to qualifiers.
 
 ###Awards
