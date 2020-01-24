@@ -3,7 +3,7 @@
 ##About FIRST Tech Challenge
 ![FTC Logo](\img\FTC-Logo.jpg)
 
-The FIRST Tech Challenge is a robotics competition that allows students to compete head to head, and are challenged to design, build, program, and operate robots.
+The FIRST Tech Challenge is a robotics competition where students compete head to head in a team inviornment.  Teams are challenged to design, build, program, and operate robots.
 
 ##About Our Team
 ![Team Picture](\img\Team-Picture_2019-2020.jpg)
