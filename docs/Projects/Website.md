@@ -2,7 +2,7 @@
 ---
 ![This Website](/img/material.png)
 ##Domain
-This website uses Google domains a domain registration service offered by Google.
+This website uses Google domains, a domain registration service offered by Google.
 
 ##Hosting
 For hosting, I used a [Raspberry Pi 3 B+](https://amzn.to/2PQSVmL "Raspberry Pi 3 B+"), my original plan was to use digital ocean, a cloud computing company, but I chose the raspberry pi because it allows me to have full controll of my web server and everything on it and is a one time purchase rather than a series of monthly payments.
