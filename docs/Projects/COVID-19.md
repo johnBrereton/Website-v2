@@ -1,2 +1,5 @@
 #Response to COVID-19
 ---
+![Face Shield](/img/face-shield.jpg)
+Photo by Prusa3D
+Due to COVID-19 hospitals around the world have been strugling with a lack of medical supplies.  In response to this virus and shortage and supplies I have been printing and assembling face sheilds to be worn over respirators.  Medical profecionals are in great need of both respirators and face sheilds, however, respirators are not easily 3d printable and if printed are not very protective.  Face sheilds however are 3d printable and are in equal demand, they protect a medical profecinals eyes and face when treating an infected patient.  I am able to print about eight per day and have been donating them to a local hospital.  At this time many hospitals are forced to reuse face sheilds and respirators multiple times, and this design allows the sheild to be taken apart and proprly dissinfected.
