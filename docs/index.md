@@ -1,6 +1,7 @@
 # Welcome to My Website
 ---
 !!! warning "Response to COVID-19"
+    Due to COVID-19 hospitals around the world have been strugling with a lack of medical supplies.  To help this I have been printing and assembling face sheilds to be worn over respirators.  Click [here to learn more](Projects/COVID-19.md).
 ## About Me
 I am an 8th-grade student at Alexandria Middle School and a member of FTC team 12601.  Over the past few years, I have completed several tech-related projects including building a [CNC](Projects/CNC.md) from scratch, creating my own personal [VPN](Projects/Pi-VPN), and designing and hosting this [website](Projects/Website.md).
 
