@@ -20,7 +20,7 @@ nav:
   - Projects:
     - This Website: Projects/Website.md
     - CNC: Projects/CNC.md
-    - Response to COVID-19: Projects/COVID-19
+    - Response to COVID-19: Projects/COVID-19.md
     - Raspberry Pi VPN: Projects/Pi-VPN.md
 
 # Configuration
