@@ -1,6 +1,6 @@
 # 3D Printing
 ---
-![Prusa i3 MK3](img\prusa-i3-mk3.jpg)
+![Prusa i3 MK3](\img\prusa-i3-mk3.jpg)
 
 Ever since I was introduced to 3d printing I was amazed by how I can turn plastic filament into whatever I could fit on the print bed.  After a lot of thought and research, I decided to purchase the Prusa i3 Mk2 kit, and have since upgraded to the Prusa i3 Mk3.
 
