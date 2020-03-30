@@ -1,1 +1,1 @@
-<iframe src="http://slither.io" width=100%></iframe>
+<iframe src="http://slither.io" width=100% height=50%></iframe>
