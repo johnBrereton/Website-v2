@@ -33,7 +33,7 @@ theme:
     text:
     code:
   icon:
-    logo: 'material/console'
+    logo: 'material/terminal'
   favicon: 'img\favicon.png'
   language: 'en'
   feature:
