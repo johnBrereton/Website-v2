@@ -34,6 +34,7 @@ theme:
     code:
   icon:
     logo: 'material/terminal'
+    repo: fontawesome/brands/git-alt
   favicon: 'img\favicon.png'
   language: 'en'
   feature:
