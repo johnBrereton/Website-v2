@@ -33,7 +33,7 @@ theme:
     text:
     code:
   icon:
-    logo: 'material/computer'
+    logo: 'material/console'
   favicon: 'img\favicon.png'
   language: 'en'
   feature:
