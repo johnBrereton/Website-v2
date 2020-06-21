@@ -32,9 +32,6 @@ theme:
   font:
     text:
     code:
-  icon:
-    logo: terminal
-    repo: fontawesome/brands/git-alt
   favicon: 'img\favicon.png'
   language: 'en'
   feature:
