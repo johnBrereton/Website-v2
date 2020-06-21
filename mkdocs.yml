@@ -32,8 +32,8 @@ theme:
   font:
     text:
     code:
-  logo:
-    icon: 'computer'
+  icon:
+    logo: 'computer'
   favicon: 'img\favicon.png'
   language: 'en'
   feature:
