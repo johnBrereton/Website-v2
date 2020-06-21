@@ -24,18 +24,7 @@ nav:
     - Raspberry Pi VPN: Projects/Pi-VPN.md
 
 # Configuration
-theme:
-  name: material
-  palette:
-    primary:
-    secondary:
-  font:
-    text:
-    code:
-  favicon: 'img\favicon.png'
-  language: 'en'
-  feature:
-    tabs: false
+
 
 # Customization
 extra:
