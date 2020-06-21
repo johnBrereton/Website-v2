@@ -33,7 +33,7 @@ theme:
     text:
     code:
   icon:
-    logo: material/terminal
+    logo: terminal
     repo: fontawesome/brands/git-alt
   favicon: 'img\favicon.png'
   language: 'en'
