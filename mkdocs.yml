@@ -41,12 +41,12 @@ theme:
 extra:
   disqus: 'johns-website'
   social:
-    - icon: 'material/github'
-      link: 'https://github.com/johnBrereton'
     - icon: 'material/email'
       link: 'mailto:john@jbrereton.com'
     - icon: 'material/phone'
       link: 'tel:9085008621'
+    - icon: 'material/github'
+      link: 'https://github.com/johnBrereton'
     - icon: 'material/linkedin'
       link: 'https://www.linkedin.com/in/johnbrereton06/'
     - icon: 'material/instagram'
