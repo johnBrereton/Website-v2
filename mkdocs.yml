@@ -40,9 +40,9 @@ theme:
 # Extras
 extra:
   disqus: 'johns-website'
-  #social:
-  #  - type: 'github'
-  #    link: 'https://github.com/johnBrereton'
+  social:
+    - icon: 'material/github'
+      link: 'https://github.com/johnBrereton'
   #  - type: 'envelope'
   #    link: 'mailto:john@jbrereton.com'
 
