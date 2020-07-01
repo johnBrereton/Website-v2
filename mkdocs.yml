@@ -34,7 +34,7 @@ theme:
     primary: blue
     accent: orange
     icon:
-      logo: material/console
+      logo: material/console   
 
 # Extras
 extra:
