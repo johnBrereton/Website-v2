@@ -6,7 +6,7 @@ site_url: 'http://jbrereton.com'
 site_dir: '/var/www/html'
 
 # Repository
-repo_name:
+repo_name: johnBrereton
 repo_url: https://github.com/johnBrereton
 
 # Copyright
