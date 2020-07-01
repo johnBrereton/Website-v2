@@ -46,7 +46,7 @@ extra:
     - icon: 'material/email'
       link: 'mailto:john@jbrereton.com'
     - icon: 'material/phone'
-      link: '9085008621'
+      link: 'tel:9085008621'
     - icon: 'material/linkedin'
       link: 'https://www.linkedin.com/in/johnbrereton06/'
     - icon: 'material/instagram'
