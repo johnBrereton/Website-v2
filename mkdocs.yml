@@ -26,8 +26,16 @@ nav:
 # Configuration
 theme:
   name: material
+  language: en
+  features:
+    - instant
+    - tabs
+  palette:
+    scheme: slate
+    primary: blue
+    accent: orange
 
-# Customization
+# Extras
 extra:
   disqus: 'johns-website'
   #social:
