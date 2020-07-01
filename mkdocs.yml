@@ -69,5 +69,5 @@ markdown_extensions:
   - meta
 
 plugins:
-  - git-revision-date-localized:
-      type: date
+  - search
+  - git-revision-date-localized
