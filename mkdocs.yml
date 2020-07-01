@@ -43,8 +43,8 @@ extra:
   social:
     - icon: 'material/github'
       link: 'https://github.com/johnBrereton'
-  #  - type: 'envelope'
-  #    link: 'mailto:john@jbrereton.com'
+    - icon: 'material/email'
+      link: 'mailto:john@jbrereton.com'
 
 # Google Analytics
 google_analytics:
