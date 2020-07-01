@@ -33,6 +33,8 @@ theme:
     scheme: slate
     primary: blue
     accent: orange
+    icon:
+      logo: material/console
 
 # Extras
 extra:
