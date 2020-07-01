@@ -24,7 +24,8 @@ nav:
     - Raspberry Pi VPN: Projects/Pi-VPN.md
 
 # Configuration
-
+theme:
+  name: material
 
 # Customization
 extra:
