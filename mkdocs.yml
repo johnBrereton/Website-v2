@@ -29,7 +29,6 @@ theme:
   language: en
   features:
     - instant
-    - tabs
   palette:
     scheme: slate
     primary: blue
