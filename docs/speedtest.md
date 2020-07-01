@@ -1,1 +1,1 @@
-<iframe src="http://jbrereton.speedtestcustom.com"></iframe>
+<iframe src="http://google.com"></iframe>
