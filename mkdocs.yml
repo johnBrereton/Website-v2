@@ -30,11 +30,11 @@ theme:
 # Customization
 extra:
   disqus: 'johns-website'
-  social:
-    - type: 'github'
-      link: 'https://github.com/johnBrereton'
-    - type: 'envelope'
-      link: 'mailto:john@jbrereton.com'
+  #social:
+  #  - type: 'github'
+  #    link: 'https://github.com/johnBrereton'
+  #  - type: 'envelope'
+  #    link: 'mailto:john@jbrereton.com'
 
 # Google Analytics
 google_analytics:
