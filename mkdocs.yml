@@ -37,7 +37,7 @@ theme:
     accent: orange
   icon:
     logo: 'material/console'
-  favicon: 'img/console.png'
+  favicon: 'img/favicon.png'
 
 # Extras
 extra:
