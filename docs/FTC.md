@@ -18,4 +18,5 @@ The 2017-2018 season was our first year as an FTC team.  Not only were we a rook
 
 For more information go to [Robostorm.org/FTC](https://robostorm.org/FTC/info/).
 
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f0b8b497dc03256"></script>
