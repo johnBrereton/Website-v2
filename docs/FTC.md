@@ -2,7 +2,8 @@
 ---
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_inline_share_toolbox"></div> 
+<div class="addthis_inline_share_toolbox"></div>
+ 
 ##About FIRST Tech Challenge
 ![FTC Logo](\img\FTC-Logo.jpg)
 
