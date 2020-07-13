@@ -1,5 +1,9 @@
 #This Website
 ---
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_inline_share_toolbox"></div>
+
 ![This Website](/img/material.png)
 ##Domain
 This website uses Google Domains, a domain registration service offered by Google.
@@ -13,4 +17,5 @@ I designed this website using the [MkDocs material](https://squidfunk.github.io/
 ##Editing and Version History
 To manage edits and version history on my website I use Github, a service for software development with integrated version control.  When I make an edit I begin by using a text editor by Microsoft called Visual Studio Code to edit the page or pages I want to change.  From there I can upload and push changes to Github and the version is automatically documented and saved.  I then use SSH (Secure Shell), a network protocol to access remote devices to connect to the Raspberry Pi hosting my website.  I can then pull the changed code from Github and upload it to the live version of my website.  I am in the process of making this automated, making the process much easier by writing code to automatically pull code from Github and post it to the live version of my website on the Raspberry Pi.
 
-<!--<div id="amzn-assoc-ad-f7e9c181-005b-4bb6-9d54-7952d3c68cdb"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=f7e9c181-005b-4bb6-9d54-7952d3c68cdb"></script>-->
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f0b8b497dc03256"></script>
