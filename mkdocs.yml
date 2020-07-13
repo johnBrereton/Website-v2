@@ -30,7 +30,6 @@ theme:
   custom_dir: overrides
   language: en
   features:
-    - instant
   palette:
     scheme: slate
     primary: blue
