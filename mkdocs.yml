@@ -29,7 +29,6 @@ theme:
   name: material
   custom_dir: overrides
   language: en
-  features:
   palette:
     scheme: slate
     primary: blue
