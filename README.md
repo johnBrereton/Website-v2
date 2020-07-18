@@ -1,2 +1,2 @@
 # Website
-Source code for my website jbrereton.com and johnbrereton.info
+Source code for my websites [jbrereton.com](jbrereton.com) and [johnbrereton.info](johnbrereton.info)
