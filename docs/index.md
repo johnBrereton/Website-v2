@@ -1,7 +1,6 @@
 # Welcome to My Website
 ---
-!!! warning "Response to COVID-19"
-    Due to COVID-19 hospitals around the world have been struggling with a lack of medical supplies.  To help this I have been printing and assembling face shields to be worn over respirators.  Click [here](Projects/COVID-19.md) to learn more.
+
 ## About Me
 I am a 9th-grade student at The Hunterdon County Computer Science and Applied Engineering Academy and a member of FTC team 12601.  Over the past few years, I have completed several tech-related projects including building a [CNC](Projects/CNC.md) from scratch, creating my own personal [VPN](Projects/Pi-VPN), and designing and hosting this [website](Projects/Website.md).
 
