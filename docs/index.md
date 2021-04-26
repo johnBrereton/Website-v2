@@ -1,4 +1,4 @@
-# Welcome to My Website
+# John Brereton
 ---
 
 ## About Me
