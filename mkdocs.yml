@@ -32,14 +32,14 @@ theme:
   palette:
     - scheme: slate
       toggle:
-      icon: material/toggle-switch-off-outline
-      name: Switch to light mode
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
       primary: blue
       accent: orange
     - scheme: default
       toggle:
-      icon: material/toggle-switch-off-outline
-      name: Switch to dark mode
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
       primary: blue
       accent: orange
   icon:
