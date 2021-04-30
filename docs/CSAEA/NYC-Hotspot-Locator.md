@@ -1,7 +1,8 @@
 # NYC Hotspot Locator
 ---
 
-<iframe width="372" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/9Dz03zbi1JHIcJ2rHklY8a4pPKmypWLozo1iONFKGEw/embed"></iframe>```
+<iframe width="372" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/9Dz03zbi1JHIcJ2rHklY8a4pPKmypWLozo1iONFKGEw/embed"></iframe>
+``` javascript
 /**
  * Simple Code.org JS app to find the closest Wi-Fi hotspot in NYC
  * Uses Code.org "NYC Public Wifi Locations" dataset
