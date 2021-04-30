@@ -69,14 +69,15 @@ markdown_extensions:
   - abbr
   - codehilite
   - footnotes
+  - meta
   - toc:
       permalink: true
-  - meta
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight:
       linenums: true
+  - pymdownx.snippets
 
 plugins:
   - search
