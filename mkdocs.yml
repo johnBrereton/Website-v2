@@ -66,6 +66,7 @@ google_analytics:
 # Extensions
 markdown_extensions:
   - admonition
+  - abbr
   - codehilite
   - footnotes
   - toc:
