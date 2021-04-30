@@ -40,8 +40,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-    primary: blue
-    accent: orange
+    #primary: blue
+    #accent: orange
   icon:
     logo: 'material/console'
   favicon: 'img/favicon.png'
