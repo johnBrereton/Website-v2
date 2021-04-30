@@ -30,21 +30,9 @@ theme:
   custom_dir: overrides
   language: en
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: blue
-      accent: orange
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: blue
-      accent: orange
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
-    
+    scheme: slate
+    primary: blue
+    accent: orange
   icon:
     logo: 'material/console'
   favicon: 'img/favicon.png'
