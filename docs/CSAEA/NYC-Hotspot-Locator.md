@@ -2,11 +2,6 @@
 ---
 
 <iframe width="372" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/9Dz03zbi1JHIcJ2rHklY8a4pPKmypWLozo1iONFKGEw/embed"></iframe>
-```
---8<--
-https://raw.githubusercontent.com/johnBrereton/NYC-Hotspot-Locator/main/code.js
---8<--
-```
 
 [:octicons-file-code-24: Source](https://github.com/johnBrereton/NYC-Hotspot-Locator)
 
