@@ -27,7 +27,6 @@ nav:
 # Configuration
 theme:
   name: material
-  custom_dir: overrides
   language: en
   palette:
     scheme: slate
