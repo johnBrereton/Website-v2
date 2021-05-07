@@ -55,8 +55,8 @@ extra:
       link: 'https://www.instagram.com/johnbrereton_/'
     #- icon: 'material/facebook'
     #  link: 'https://facebook.com/johnBrereton06'
-    - icon: 'material/twitter'
-      link: 'https://twitter.com/johnBrereton06'
+    #- icon: 'material/twitter'
+    #  link: 'https://twitter.com/johnBrereton06'
 
 # Google Analytics
 google_analytics:
