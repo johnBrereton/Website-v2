@@ -1,9 +1,6 @@
 # 3D Printing
 ---
 
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_inline_share_toolbox"></div>
-
 ![Prusa i3 MK3](\img\prusa-i3-mk3.jpg)
 
 Ever since I was introduced to 3d printing I was amazed by how I can turn plastic filament into whatever I could fit on the print bed.  After a lot of thought and research, I decided to purchase the Prusa i3 Mk2 kit, and have since upgraded to the Prusa i3 Mk3.
@@ -15,6 +12,3 @@ The first step to 3d printing is designing what you want to print.  I use Onshap
 ![Octoprint Logo](\img\octoprint.jpg)
 
 Shortly after purchasing my printer I discovered Octoprint.  Octoprint is a web interface for 3D printers that allows the user to control and monitor all aspects of their printer and print jobs right from their browser.  This allows me to remotely monitor and control my printer, which was especially useful for monitoring long prints.  I have also attached a webcam to my printer connected to octoprint to see print progress.
-
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f0b8b497dc03256"></script>

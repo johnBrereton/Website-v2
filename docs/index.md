@@ -9,6 +9,3 @@ This website was last updated on 8/1/2020 and is a work in progress.  If you hav
 <script data-ad-client="ca-pub-6977847168328366" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <img hidden src="https://grabify.link/IJZ5B4">
-
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f0b8b497dc03256"></script>

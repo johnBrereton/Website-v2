@@ -1,9 +1,6 @@
 #CNC
 ---
 
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_inline_share_toolbox"></div>
-
 ##What is a CNC Machine
 Computer numerical control (CNC) is code that represents instructions for precise movements to be carried out by machines.  This code defines how to automatically create, produce, or transform a virtual object into a real one.  A CNC machine is a machine that executes this code.  CNC milling is used in many different applications including making metal car parts and aerospace components.  There are many types of CNC machines including 3D printers, waterjets, and CNC milling machines.
 
@@ -13,6 +10,3 @@ I decided to build my CNC from scratch.  There were many kits available online, 
 
 ##Future changes and improvements
 Similar to many of my other projects I am constantly modifying and improving my CNC.  Some improvements I plan to make in the future include lengthening the z-axis, creating guards for the linear rails to prevent dust and debris from getting jammed in the rails, and adding a self-leveling z-probe.
-
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f0b8b497dc03256"></script>

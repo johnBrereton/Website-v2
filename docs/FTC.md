@@ -1,9 +1,6 @@
 #FTC Team 12601
 ---
 
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_inline_share_toolbox"></div>
- 
 ##About FIRST Tech Challenge
 ![FTC Logo](\img\FTC-Logo.jpg)
 
@@ -21,6 +18,3 @@ After a very successful first year, we were determined to do even better in our 
 The 2017-2018 season was our first year as an FTC team.  Not only were we a rookie team, but we were also one of the smallest teams with only 8 members.  One of our members owned a CNC machine enabling us to machine our robot out of aluminum, giving us a large advantage over other robots.  Within weeks we had a great robot that was able to score in all the point categories.  We won our first few competitions and qualified for New Jersey State championships.  From there we qualified to North Eastern Super Regionals and continued to the World Championship in Detroit, Michigan.
 
 For more information go to [Robostorm.org/FTC](https://robostorm.org/FTC/info/).
-
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f0b8b497dc03256"></script>
