@@ -37,7 +37,7 @@ theme:
     logo: 'material/console'
   favicon: 'img/favicon.png'
   features:
-    - navigation.instant
+    - instant
 
 # Extras
 extra:
