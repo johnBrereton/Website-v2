@@ -1,4 +1,4 @@
-#Raspberry Pi VPN
+# Raspberry Pi VPN
 ---
 
 ![VPN Diagram](\img\VPN.jpg)
