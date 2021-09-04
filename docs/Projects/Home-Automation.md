@@ -2,6 +2,7 @@
 ---
 
 ![Apple HomeKit](\img\Homekit-Demo.png)
+<sup>Image source Apple</sup>
 
 Today more than half (69%) of homes in the United States have at least one smart device such as a smart speaker or thermostat.  Smart homes have the potential to be revolutionary technology that changes households around the world.  Unfortunately, ever since smart homes became a reality they have struggled with two major problems, reliability, and compatibility.
 
