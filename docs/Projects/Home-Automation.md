@@ -1,6 +1,8 @@
 # Home Automation and Control
 ---
 
+! [Homebridge Logo](\img\Homebridge-Logo)
+
 Today more than half (69%) of homes in the United States have at least one smart device such as a smart speaker or thermostat.  Smart homes have the potential to be revolutionary technology that changes households around the world.  Unfortunately, ever since smart homes became a reality they have struggled with two major problems, reliability, and compatibility.
 
 Many smart home products that are brought to market are severely underdeveloped especially in regards to firmware.  They struggle with connectivity issues and bugs in general.  Furthermore several of the companies making smart home products are less established brands with the possibility of going out of business, ending firmware updates for users.
