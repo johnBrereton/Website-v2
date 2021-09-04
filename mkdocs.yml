@@ -16,13 +16,15 @@ copyright: 'Copyright &copy; 2018 - 2021 John Brereton'
 # Page Tree
 nav:
   - Home: index.md
-  - FTC Team 12601: FTC.md
   - 3D Printing: 3d-Printing.md
+  - FTC Team 12601: FTC.md
   - Projects:
-    - This Website: Projects/Website.md
     - CNC: Projects/CNC.md
-    - Response to COVID-19: Projects/COVID-19.md
+    - Home-Automation: Projects/Home-Automation.md
+    - Home-Network: Projects/Home-Network.md
     - Raspberry Pi VPN: Projects/Pi-VPN.md
+    - Response to COVID-19: Projects/COVID-19.md
+    - This Website: Projects/Website.md
 
 # Configuration
 theme:
