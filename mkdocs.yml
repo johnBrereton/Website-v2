@@ -38,6 +38,7 @@ theme:
     logo: 'material/console'
   favicon: 'img/favicon.png'
   features:
+    - navigation.tabs
     - navigation.instant
     - navigation.top
 
