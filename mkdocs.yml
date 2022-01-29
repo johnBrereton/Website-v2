@@ -30,6 +30,10 @@ theme:
   name: material
   custom_dir: overrides
   language: en
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.top
   palette:
     scheme: slate
     primary: blue
@@ -37,10 +41,6 @@ theme:
   icon:
     logo: 'material/console'
   favicon: 'img/favicon.png'
-  features:
-    - navigation.tabs
-    - navigation.instant
-    - navigation.top
 
 # Extras
 extra:
